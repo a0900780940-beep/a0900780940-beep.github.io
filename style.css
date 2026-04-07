@@ -78,6 +78,14 @@ h3 {
 }
 
 
+@media screen and (max-width: 768px) {
+	body {
+		width: 96%;
+		margin: 0 auto;
+		background: red;
+	}
+}
+
 @media screen and (min-width: 1025px) {	
 	body {
 		width: 80%;
